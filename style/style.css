@@ -1,0 +1,32 @@
+.my-bg{
+    background-image: url("../img/marvel.jpeg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+.logo img{
+    width:  150px;
+}
+.myNav{
+    padding: 0 50px;
+    font-size: 50px;
+    color: white;
+    background-color: #22191A;
+    border-end-end-radius:50px ;
+    border-bottom-left-radius:50px ;
+    
+}
+#SignOut{color: white;
+border-color: white;
+}
+.myTitle{
+    font-size: 70px;
+    background: linear-gradient(to right, rgb(0, 0, 0) , rgb(183, 0, 0));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#User{
+    color: black;
+}
